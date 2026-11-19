@@ -1,9 +1,9 @@
 {
   "name": "UBUNITY - XTIME",
   "file": "xtime_main.html",
-  "sha256": "5c6d5df8ba55fcf2a0fee888249c4084c3548e6df89e50196f879153093ad8de",
+  "sha256": "cfb35376ff7ccd090d65fe475eca596cc8d157415143f6faec5c82b2f3010672",
   "version": 1,
-  "updated": "2026-11-19T03:20:13.161289+00:00Z",
+  "updated": "2026-11-19T04:26:08.547127+00:00Z",
   "donations": "BTC 1 + BTC 3 only, donation-only, does not ask",
   "rule": "Code publishes. Agents read. Media follows. No account needed.",
   "how_to_read": [
